@@ -1,14 +1,10 @@
-# wp-plugins
+# WP Plugins
 Personal Plugins Build (WP-MVC)
 
-- WP Forums (WPF)
-Done
+- WP Forums (WPF) : Done
 
-- WP Raffle System (WPRS)
-Done
+- WP Raffle System (WPRS) : Done
 
-- WP Gravity Contact Form (WP-GCF)
-Inprogress
+- WP Gravity Contact Form (WP-GCF) : Inprogress
 
-- WP Cart Ecommerce (WP-CEC) / client-base
-Pending
+- WP Cart Ecommerce (WP-CEC) / client-base : Pending
